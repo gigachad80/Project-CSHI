@@ -19,7 +19,7 @@ Project - C(Cyber) S(Sahayta) H(Hub) I(India).
 
 ### ⌚ Total Time taken to develop & test
 
-4 hour
+2 hr 27 min
 
 ### 🙃Why I Created This
 
